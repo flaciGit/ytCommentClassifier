@@ -51,7 +51,6 @@ nextPageToken = ''
 comments = []
 processingData = True
 first = True
-commentLimit = 5000
 commentLimit = 2000
 maxResults = 100
 
